@@ -1,2 +1,4 @@
 name: Shahid Zaman
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
+

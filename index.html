@@ -30,7 +30,7 @@ title: Home
   {% endfor %}
 </div>
 
-<div align="center">
+<div class="pagination">
   {% if paginator.next_page %}
     <a href="{{ paginator.next_page_path | prepend: site.baseurl }}">&lt;&lt; Older posts</a>
   {% endif %}

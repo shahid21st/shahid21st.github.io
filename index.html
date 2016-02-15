@@ -31,11 +31,14 @@ title: Home
 </div>
 
 <div class="pagination">
-  {% if paginator.next_page %}
+  {% if paginator.next_page and paginator.previous_page %}
+    <a href="{{ paginator.next_page_path | prepend: site.baseurl }}">&lt;&lt; Older posts</a>&nbsp;||&nbsp;
+    <a href="{{ paginator.previous_page_path | prepend: site.baseurl }}">Newer posts &gt;&gt;</a>
+
+  {% elsif paginator.next_page %}
     <a href="{{ paginator.next_page_path | prepend: site.baseurl }}">&lt;&lt; Older posts</a>
-  {% endif %}
   
-  {% if paginator.previous_page %}
+  {% elsif paginator.previous_page %}
     <a href="{{ paginator.previous_page_path | prepend: site.baseurl }}">Newer posts &gt;&gt;</a>
   {% endif %}
 </div>

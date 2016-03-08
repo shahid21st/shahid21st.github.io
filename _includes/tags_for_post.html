@@ -2,17 +2,12 @@
 <!-- Getting and sorting tags alphabetically -->
 {% endcomment %}
 
-{% capture mytags %}
-  {% for tag in include.tags %}
-    {{ tag }}
-  {% endfor %}
-{% endcapture %}
-{% assign sortedtags = mytags | split:' ' | sort %}
+{% assign rawtags = "" %}
 
-{% comment %}
-<!-- Tags output: Name + link to the page with list of all the posts with the same tag -->
-{% endcomment %}
+{% assign ttags = include.tags | join:'|' | append:'|' %}
+{% assign rawtags = rawtags | append:ttags %}
+{% assign rawtags = rawtags | split:'|' | sort %}
 
-{% for tag in sortedtags %}
+{% for tag in rawtags %}
 <a href="{{ site.baseurl }}/tag/{{tag}}">#{{tag}}</a>
 {% endfor %}

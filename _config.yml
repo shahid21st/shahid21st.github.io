@@ -2,7 +2,7 @@ name: Shahid Zaman
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
 
-paginate:            2
+paginate: 4         
 excerpt_separator: "<!--break-->"
 
 

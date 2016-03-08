@@ -2,6 +2,7 @@
 layout: post
 title: "Google Summer of Code, Once Again"
 date: 2010-09-30
+comments: true
 tags: [Google Summer of Code, Mifos]
 ---
 

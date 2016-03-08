@@ -2,6 +2,7 @@
 layout: post
 title: "Stop, Revive, Survive!"
 date: 2016-03-08
+comments: true
 tags: [blog, jekyll, github]
 ---
 

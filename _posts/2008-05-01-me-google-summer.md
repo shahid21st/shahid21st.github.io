@@ -2,6 +2,7 @@
 layout: post
 title: "Me, Google Summer of Code 2008 and OpenMRS"
 date: 2008-05-01
+comments: true
 tags: [Google Summer of Code, OpenMRS]
 ---
 

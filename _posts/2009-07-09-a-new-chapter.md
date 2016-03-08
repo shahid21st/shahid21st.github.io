@@ -2,6 +2,7 @@
 layout: post
 title: "A New Chapeter"
 date: 2009-07-09
+comments: true
 tags: [random]
 ---
 

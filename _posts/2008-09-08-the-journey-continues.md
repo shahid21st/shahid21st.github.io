@@ -2,6 +2,7 @@
 layout: post
 title: "The Journey Continues..."
 date: 2008-09-08
+comments: true
 tags: [Google Summer of Code, OpenMRS]
 ---
 

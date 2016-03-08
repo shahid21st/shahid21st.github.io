@@ -2,6 +2,7 @@
 layout: post
 title: "Writing JIRA Plugin"
 date: 2007-09-24
+comments: true
 tags: [jira, development]
 ---
 

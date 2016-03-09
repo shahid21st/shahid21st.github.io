@@ -7,5 +7,5 @@ excerpt_separator: "<!--break-->"
 
 
 gems:
-- jekyll-paginate
-
+ - jekyll-paginate
+ - jekyll-sitemap

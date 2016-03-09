@@ -6,7 +6,7 @@ comments: true
 tags: [blog, jekyll, github]
 ---
 
-Well, \'Stop, Revive, Survive\', this is a popular slogan used by the road safety authorities in Australia. But using this as my post title has nothing to do with that. Rather I just want to mention this to announce that I have revived my blog which is dormant for quite some time. Well a lot of thing changed in my life since the last post. I guess the most notable one is that I am the proud father of an almost 5 year old boy, Yusha and a 4 month old girl, Amina.
+Well, \'Stop, Revive, Survive\', this is a popular slogan used by the road safety authorities in Australia. But using this as my post title has nothing to do with that. Rather I just want to mention this to announce that I have revived my blog, which is dormant for quite some time. Well a lot of thing changed in my life since the last post. I guess the most notable one is that I am the proud father of an almost 5 year old boy, Yusha and a 4 month old girl, Amina.
 
 <!--break-->
 

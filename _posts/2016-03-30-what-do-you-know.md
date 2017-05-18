@@ -6,7 +6,7 @@ comments: true
 tags: [talk, web-direction]
 ---
 
-I am actively trying to overcome my public speaking fears for a while. So when I saw a call for speakers for [Web Directions'](http://www.webdirections.org/) *What Do You Know?* [event](https://www.eventbrite.com.au/e/wdyk-sydney-march-2016-tickets-21500385231), I thought I had to do this. At that time, I was fiddling with my [Jekyll](https://jekyllrb.com/) blog quite a lot. So I shoot a proposal to [Jhon Allsopp](https://www.webdirections.org/about/#john) about this and they agreed.
+I am actively trying to overcome my public speaking fears for a while. So when I saw a call for speakers for [Web Directions'](http://www.webdirections.org/) *What Do You Know?* [event](https://www.eventbrite.com.au/e/wdyk-sydney-march-2016-tickets-21500385231), I thought I had to do this. At that time, I was fiddling with my [Jekyll](https://jekyllrb.com/) blog quite a lot. So I shoot a proposal to [Jhon Allsopp](https://www.webdirections.org/about/#john) about this and he agreed.
 
 <!--break-->
 
